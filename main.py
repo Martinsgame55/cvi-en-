@@ -15,3 +15,8 @@ else:
     #git příkaz 1 = git add *
     #git příkaz 2 = git commit -m "text"
     #git příkaz 3 = git push
+
+
+    #git clone
+    #cd
+    #git pull
